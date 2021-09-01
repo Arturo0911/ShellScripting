@@ -1,14 +1,3 @@
-echo "¿ Te quieres casar conmigo bebe ?"
+#!/bin/bash
 
-if 1; then
-	echo "todo bien mi llave"
-
-fi
-
-
-
-
-
-
-
-
+echo "My name is $name"
